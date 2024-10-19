@@ -1,0 +1,13 @@
+dht_simulation/
+
+├── src/
+
+│   ├── Node.java
+
+│   ├── DHT.java
+
+│   ├── Main.java
+
+├── README.md
+
+└── pom.xml (if using Maven)
